@@ -1,0 +1,21 @@
+A página index.html pode ser aberta por qualquer 
+navegador (testado e funcionando normalmente com 
+Google Chrome); 
+
+É necessário, que, na mesma pasta (onde estiver o 
+arquivo index.html) estejam também os arquivos de 
+imagem Loading.gif e Logo.png, e o arquivo 
+funcs.js que auxiliará no funcionamento da 
+página index.html; 
+
+O código foi todo desenvolvido no editor de texto 
+Notepad++, porém, pode ser aberto por qualquer 
+outro (Bloco de Notas, VS Code, etc.);
+
+Para qualquer informação adicional, deixo 
+disponível meu e-mail (adonisdelima1@gmail.com) e 
+meu número (Claro - 11 9 9161 3993) que também 
+está disponível para contato via Whatsapp ou 
+Telegram; 
+
+Muito obrigado! 
